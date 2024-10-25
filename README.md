@@ -1,10 +1,14 @@
 # Introduction to MATLAB/Simulink Applications in Linear Control Systems
 
+<div align="justify">
 Welcome to the Introduction to MATLAB/Simulink Applications in Linear Control Systems repository! This resource is designed to accompany our Fall 2024 course, offering practical code, examples, and resources to help you master MATLAB and Simulink for control systems.
+</div>
 
 ## Course Overview
 
+<div align="justify">
 This hands-on course introduces students to MATLAB and Simulink, focusing on essential tools for analyzing and designing control systems. Topics span from basic MATLAB functionality to specialized control systems techniques, following our syllabus structure.
+</div>
 
 ## Instructors
 * [Danial Arbabian](https://github.com/danial2arbabian)
