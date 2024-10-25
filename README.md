@@ -10,6 +10,13 @@ Welcome to the Introduction to MATLAB/Simulink Applications in Linear Control Sy
 This hands-on course introduces students to MATLAB and Simulink, focusing on essential tools for analyzing and designing control systems. Topics span from basic MATLAB functionality to specialized control systems techniques, following our syllabus structure.
 </div>
 
+## Repository Contents
+* Lecture Slides: Key slides summarizing topics covered in each session
+* Session Codes: MATLAB code and Simulink models for hands-on practice
+* Useful Sheets: Quick-reference guides, formulas, and MATLAB tips
+* Weekly Assignments: Practice exercises to reinforce learning
+* Final Project: Comprehensive project applying course concepts to a control systems problem
+
 ## Getting Started
 ```bash
 git clone https://github.com/LinearControlSystems/MATLAB-Simulink-Applications.git
@@ -37,13 +44,6 @@ cd MATLAB-Simulink-Applications
 * Advanced Plotting: Nyquist plots, Bode diagrams, and Root Locus
 * Control Design: Using PIDTuner, sisotool, and implementing controllers
 * Intro to Control in Python: Comparing MATLAB-based control techniques with Python
-
-## Repository Contents
-* Lecture Slides: Key slides summarizing topics covered in each session
-* Session Codes: MATLAB code and Simulink models for hands-on practice
-* Useful Sheets: Quick-reference guides, formulas, and MATLAB tips
-* Weekly Assignments: Practice exercises to reinforce learning
-* Final Project: Comprehensive project applying course concepts to a control systems problem
 
 ## Instructors
 * [Danial Arbabian](https://github.com/danial2arbabian)
